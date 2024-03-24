@@ -1,11 +1,9 @@
 ## Renewable Energy Generation
-<img width="553" alt="Wind Power Generation" src="https://github.com/Day-Raval/Renewable-Energy-Generation/assets/132192767/063bc2bb-3d71-4e78-b54c-76d39b124ecf"» use &nbsp;>
 
 
 
-Dataset - 30 months of windmill turbine data, recorded at 10 mins interval
+<img width="796" alt="Wind Power Generation" src="https://github.com/Day-Raval/Renewable-Energy-Generation/assets/132192767/fb838c6c-d0b1-41ea-a379-5c136c162e14">
 
-Goal - Predicting Active Wind Power using the dataset
 
 
 
@@ -23,7 +21,7 @@ Steps involved in the deploying the ML model:-
 
    
 
-   <img width="655" alt="Gradient Boosting" src="https://github.com/Day-Raval/Renewable-Energy-Generation/assets/132192767/21cae801-96ba-4788-a776-c487b8fb156e"» use &nbsp;>
+   <img width="655" alt="Gradient Boosting" src="https://github.com/Day-Raval/Renewable-Energy-Generation/assets/132192767/21cae801-96ba-4788-a776-c487b8fb156e">
 
 
 5) Deploy the model as a flask webapp
@@ -31,7 +29,7 @@ Steps involved in the deploying the ML model:-
 
    
 
-<img width="714" alt="Flask Website" src="https://github.com/Day-Raval/Renewable-Energy-Generation/assets/132192767/dd7b7148-3c59-4752-8b13-7605aaa985bc"» use &nbsp;>
+<img width="714" alt="Flask Website" src="https://github.com/Day-Raval/Renewable-Energy-Generation/assets/132192767/dd7b7148-3c59-4752-8b13-7605aaa985bc">
 
 
 
