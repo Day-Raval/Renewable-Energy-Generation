@@ -1,5 +1,6 @@
 ## Renewable Energy Generation
-<img width="853" alt="Wind Power Generation" src="https://github.com/Day-Raval/Renewable-Energy-Generation/assets/132192767/063bc2bb-3d71-4e78-b54c-76d39b124ecf">
+<img width="353" alt="Wind Power Generation" src="https://github.com/Day-Raval/Renewable-Energy-Generation/assets/132192767/063bc2bb-3d71-4e78-b54c-76d39b124ecf">
+
 
 
 Dataset - 30 months of windmill turbine data, recorded at 10 mins interval
@@ -26,6 +27,9 @@ Steps involved in the deploying the ML model:-
 
 
 5) Deploy the model as a flask webapp
+
+
+   
 
 <img width="514" alt="Flask Website" src="https://github.com/Day-Raval/Renewable-Energy-Generation/assets/132192767/dd7b7148-3c59-4752-8b13-7605aaa985bc">
 
